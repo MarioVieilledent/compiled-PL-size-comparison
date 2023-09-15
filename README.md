@@ -12,6 +12,6 @@ I compare here the size of the exe file compiled on Win64.
 | -------- | ---------- |
 | Zig      | 8.5        |
 | C        | 11.5       |
-| Rust     | 20.0       |
+| C++      | 20.0       |
 | Rust     | 216.6      |
 | Go       | 1380.4     |
